@@ -1,0 +1,6 @@
+{
+  "name": "Flow.io - Intelligent Business Workflow Automation",
+  "description": "Autonomous multi-step business workflow platform integrating Gmail, Excel spreadsheets, document parsing, dynamic re-planning, human approval, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
